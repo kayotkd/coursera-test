@@ -1,0 +1,10 @@
+section{
+  background-color: gray;
+  max-width: 250px;
+}
+
+h2{
+  background-color: red;
+  color: white;
+  margin-left: 100px;
+}
